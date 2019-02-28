@@ -1,0 +1,4 @@
+ID,name,salary
+1,mouli,20000
+2,tondra,20000
+3,oriana,20000
